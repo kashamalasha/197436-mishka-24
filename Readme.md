@@ -1,7 +1,7 @@
 # Личный проект «Мишка» 
 
 * Студент: [Дмитрий Бурнышев](https://up.htmlacademy.ru/adaptive/24/user/197436).
-* Наставник: [Евгений Котов] (https://htmlacademy.ru/profile/id25083).
+* Наставник: [Ольга Тюлихова] (https://htmlacademy.ru/profile/id523263).
 
 ---
 
